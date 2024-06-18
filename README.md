@@ -38,7 +38,6 @@ The program is used to detect emotions through the text.<br>
 | boredom        | 126       |
 #
 **API Input**
-#
 <b>To:</b> URL/emotion<br><br>
 {'note':'I am Happy!'}<br><br>
 <b>Key:</b> note<br>
