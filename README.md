@@ -39,8 +39,8 @@ The program is used to detect emotions through the text.<br>
 #
 **API Input**
 #
-<b>To:</b> URL/emotion<br>
-{'note':'I am Happy!'}<br>
+<b>To:</b> URL/emotion<br><br>
+{'note':'I am Happy!'}<br><br>
 <b>Key:</b> note<br>
 <b>Value:</b> I am Happy!<br>
 
